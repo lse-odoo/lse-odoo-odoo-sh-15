@@ -1,0 +1,1 @@
+# lse-odoo-odoo-sh-15
